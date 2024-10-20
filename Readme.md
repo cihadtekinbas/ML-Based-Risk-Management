@@ -18,6 +18,7 @@ The following tables highlight key risk categories identified in the study:
 
 - **Images**: Visual representations of risk categories and their impact, located in the repository.
   - `3rd Party Risks.png`
+    ![alt text]https://github.com/cihadtekinbas/ML-Based-Risk-Management/blob/main/3rd%20Party%20Risks.png
   - `Audit Insufficiency.png`
   - `Financial Insufficiency in Service Area.png`
   - `Physical and Security Barriers.png`
